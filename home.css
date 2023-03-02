@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.navBar{
+    background-color: rgb(141, 148, 232);
+    width: 120px;
+    height: 500px;
+    border-top-right-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    
+
+}
+
+.nav-element{
+    padding: 1rem;
+}
+
